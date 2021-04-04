@@ -1,6 +1,6 @@
 # Project TomTec fotocamera
 
-A few years ago, i have boght for my, then little childeren, a camera for there own.
+A few years ago, i have bought for my, then little childeren, a camera for there own.
 
 ![alt text][TomTec]
 
