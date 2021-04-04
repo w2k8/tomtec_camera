@@ -164,7 +164,7 @@ dd if=W25X80_20210403_170818.BIN of=part5.data.out skip=291823 bs=1
 ```
 cat part1.data.out part2.image.out part3.data.out part4.goodbye.in.powned_by_w2k8 part5.data.out > new_fw.data
 ```
-Lets reflash the firmware to the little chip.
+Lets re-flash the firmware to the little chip.
 
 ![Programmer]
 
