@@ -107,7 +107,7 @@ fffffffffffffffffffffffffffffffffffffffffffffff""bffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ``` 
 
-We can modiefy this to show it my name:
+We can modify this to show it my name:
 
 ```
 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff&"fff
